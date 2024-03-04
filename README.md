@@ -1,10 +1,7 @@
 <h1 align="center"> Projeto inventário </h1>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
@@ -25,3 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript/ JQUERY
 - Git e Github
 - PHP
+
+## 🔖Projeto
+
+Não posso divugar mais informações devido ao termo de confidencialidade da empresa.
