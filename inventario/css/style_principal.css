@@ -1,0 +1,257 @@
+body{
+	margin: 0;
+	padding:0;
+	height: 100%;
+	font:  81.25% arial, helvetica, sans-serif;
+	line-height: 1;
+	direction: ltr;
+	overflow: hidden;
+	overflow-y: hidden;
+}
+a {
+	font-weight:bold;
+}
+a:link {
+	color:#000099;
+	text-decoration: none;
+}
+a:visited {
+	color:#000099;
+	text-decoration: none;
+}
+a:hover {
+	color:red;
+	text-decoration: underline;
+}
+
+#geral{
+	height: 100%;
+	overflow: hidden;
+}
+
+#colEsq {
+	position:absolute;
+	height: 100%;
+	width:20%;
+	top: 0px;
+	border-right: 1px solid;
+	overflow: hidden;
+}
+
+#colDir{
+	position:absolute;
+	height: 100%;
+	width:100%;
+	top: 0px;
+	overflow: hidden;
+}
+
+#topo{
+	position:relative;
+	height:90px;
+	overflow: hidden;
+	background-repeat: repeat-x;
+	background-position: bottom left;
+	border-left: 1px solid;
+}
+
+#formulario {
+	position:relative;
+	height: 85%;
+	padding: 5px;
+	padding-left: 15px;
+	margin: 0;
+	overflow: auto;
+} 
+
+#logo {
+	height: 10%;
+	width: 100%;
+	padding: 2px;
+	text-align:center;
+}
+
+#MenuConteudo {
+	height: 80%;
+	width:100%;
+	top: 0px;
+	padding-left:5px;
+	overflow: auto;
+}
+
+#MenuTitulo{
+	padding-top: 10px;
+	border-bottom: 1px dotted;
+}
+
+#BoxMenu{
+	position: absolute;
+	bottom: 10px;
+	Border-top: 1px dotted;
+	width:100%;
+}
+
+#relatorio_geral{
+	margin-left: 5px;
+	font-size: 12px;
+}
+#relatorio_geral .1{
+	background-color:  #f2f3f4;
+}
+#relatorio_geral .0{
+	background-color:  white;
+}
+#relatorio_geral #titulo{
+	font-size: 20px;
+	width: 100%;
+	margin-top: 25px;
+}
+#relatorio_geral #titulo .t1{
+	text-align: center;
+	color: #294973;
+	margin-top: 20px;
+}
+#relatorio_geral #logo{
+	float: right;
+	width: 120px;
+	top: 0;
+	margin-right: 15px;
+}
+#relatorio_geral #header{
+	width: 20%;
+	margin-top: 10px;
+	text-align: left;
+}
+#relatorio_geral #header #linha{
+	border: 1px solid silver;
+}
+#relatorio_geral #header #h_1{
+	float: left;
+	width: 29%;
+	border-right: 1px solid silver;
+	background: #294973;
+	color: #d6dfde;
+	font-weight: bold;
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+#relatorio_geral #header #h_1 div{
+	padding-left: 5px;
+}
+#relatorio_geral #header #h_2{
+	width: 70%;
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+#relatorio_geral #header #h_2 div{
+	padding-left: 2px;
+}
+#relatorio_geral #tabela{
+	margin-top: 2px;
+	text-align: center;
+}
+#relatorio_geral #tabela td{
+	border:1px solid silver;
+	padding-left: 8px;
+	padding-right: 8px;
+	font-size: 12px;
+	text-align: center;
+}
+#relatorio_geral #tabela th{
+	background-color: #EEC900;
+	border:1px solid silver;
+	font-size: 12px;
+	text-align: center;
+}
+#relatorio_geral #footer{
+	width: 15%;
+	margin-top: 10px;
+	text-align: left;
+}
+#relatorio_geral #footer #linha{
+	border: 1px solid silver;
+}
+#relatorio_geral #footer #h_1{
+	float: left;
+	width: 70%;
+	border-right: 1px solid silver;
+	background: #294973;
+	color: #d6dfde;
+	font-weight: bold;
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+#relatorio_geral #footer #h_1 div{
+	padding-left: 5px;
+}
+#relatorio_geral #footer #h_2{
+	width: 29%;
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+#relatorio_geral #footer #h_2 div{
+	text-align: center;
+}
+
+#box_ordenar {
+	width: 300px; 
+	border: 1px solid #d6dfde;
+	margin-top: 2px;
+}
+#box_ordenar  input{
+	margin-left: 2px;
+}
+#box_ordenar #col1 {
+	width: 150px; 
+	border-right: 1px solid #d6dfde;
+	float: left;
+}
+#box_ordenar #col2 {
+	width: 149px;
+}
+#box_ordenar .titulo{
+	font-size: 16px;
+	text-align: center;
+	border-bottom: 1px solid #d6dfde;
+	background: #294973;
+	color: #d6dfde;
+}
+#box_ordenar .subtitulo{
+	font-size: 14px;
+	text-align: center;
+	border-bottom: 1px solid #d6dfde;
+	background-color: #EEC900;
+}
+
+.t1{
+	color: #000099;
+	font-size: 20px;
+	text-align: center;
+}
+.t2{
+	color: #000099;
+	font-size: 34px;
+	text-align: center;
+	padding-top: 25px;
+	
+}
+.t3{
+	color: #000099;
+	font-size: 12px;
+	padding-top: 5px;
+	padding-left: 5px;
+}
+.t4{
+	padding-top: 5px;
+	text-align: center;
+}
+.t5{
+	padding-top: 10px;
+	text-align: center;
+	border-bottom:1px solid #000000;
+}
+.t6{
+	padding-top: 15px;
+	text-align: center;
+}
+
