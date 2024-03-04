@@ -26,3 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 🔖Projeto
 
 Não posso divugar mais informações devido ao termo de confidencialidade da empresa.
+
+## 🔖Projeto
+
+Não posso divugar mais informações devido ao termo de confidencialidade da empresa.
