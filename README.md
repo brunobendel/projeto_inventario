@@ -22,3 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript/ JQUERY
 - Git e Github
 - PHP
+
+- ## Projeto
+
+Não posso divugar mais informações devido ao termo de confidencialidade da empresa.
