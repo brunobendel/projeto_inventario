@@ -23,6 +23,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - PHP
 
-- ## Projeto
+## 🔖Projeto
 
 Não posso divugar mais informações devido ao termo de confidencialidade da empresa.
